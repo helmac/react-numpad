@@ -1,6 +1,6 @@
 {
   "name": "react-numpad-helmac",
-  "version": "4.1.2",
+  "version": "4.1.3",
   "description": "Numpad react component, as number input or time input",
   "homepage": "https://gpietro.github.io/docs/",
   "main": "build/index.js",
